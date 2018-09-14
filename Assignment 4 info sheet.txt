@@ -1,0 +1,64 @@
+CS 1501 Assignment Information Sheet
+ 
+You must submit an information sheet with every assignment. Also be sure to submit all materials following the procedures described on the submission procedures page.
+
+Name: Samuel Birus Assignment #: 4
+
+Program Due Date: 7/14/17
+
+Handed in Date: 7/12/17
+
+JDK Version: 1.8.0_131
+
+Source code file name(s):
+
+Add128.java
+ImprovedChatClient.java
+ImprovedChatServer.java
+SecureChatClient.java
+SecureChatServer.java
+Substitute.java
+SymCipher.java
+
+Compiled (.jar or .class) file name(s): 
+
+Add128.class
+ImprovedChatClient.class
+ImprovedChatServer.class
+SecureChatClient.class
+SecureChatServer.class
+Substitute.class
+SymCipher.class
+
+Does your program compile without error?: yes 
+
+If not, what is/are the error(s)?:
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Does your program run without error?: yes
+
+If not, what is/are the error(s) and which parts of your program run correctly?:
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Additional comments (including problems and extra credit):
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+ 
+________________________________________________________________
+ 
